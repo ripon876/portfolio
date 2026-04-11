@@ -1,0 +1,118 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #0d0d0d;
+  color: #d4d4d4;
+  font: 15px/1.6 system-ui, -apple-system, sans-serif;
+  min-height: 100vh;
+}
+
+.container {
+  max-width: 650px;
+  margin: 0 auto;
+  padding: 64px 24px;
+}
+
+header {
+  margin-bottom: 40px;
+}
+
+header h1 {
+  font-size: 28px;
+  font-weight: 600;
+  color: #fff;
+  margin-bottom: 4px;
+}
+
+.role {
+  color: #a3a3a3;
+  font-size: 14px;
+}
+
+.location {
+  color: #737373;
+  font-size: 13px;
+  margin-top: 2px;
+}
+
+section {
+  margin-bottom: 36px;
+}
+
+section h2 {
+  font-size: 11px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  color: #525252;
+  margin-bottom: 12px;
+}
+
+section > p {
+  color: #a3a3a3;
+  margin-bottom: 12px;
+}
+
+section > p:last-child {
+  margin-bottom: 0;
+}
+
+.skills p {
+  color: #a3a3a3;
+  margin-bottom: 8px;
+}
+
+.skills strong {
+  color: #d4d4d4;
+}
+
+section ul {
+  list-style: none;
+}
+
+section li {
+  padding: 10px 0;
+  color: #a3a3a3;
+  border-bottom: 1px solid #262626;
+}
+
+section li:last-child {
+  border-bottom: none;
+}
+
+section li strong {
+  color: #e5e5e5;
+}
+
+.date {
+  color: #737373;
+  font-size: 13px;
+}
+
+.desc {
+  display: block;
+  color: #737373;
+  font-size: 13px;
+  margin-top: 4px;
+}
+
+.tech {
+  display: block;
+  color: #737373;
+  font-size: 13px;
+  margin-top: 4px;
+}
+
+a {
+  color: #a3a3a3;
+  text-decoration: none;
+  transition: color 0.15s;
+}
+
+a:hover {
+  color: #fff;
+}
