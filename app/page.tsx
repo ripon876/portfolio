@@ -24,11 +24,11 @@ export default function Home() {
         <h2>Skills</h2>
         <div className="skills">
           <p>
-            <strong>Frontend:</strong> JavaScript, TypeScript, React, Next.js,
-            Vue, Angular, Svelte, WebRTC
+            <strong>Frontend:</strong> JavaScript, TypeScript, React js, Next
+            js, Vue js, Angular, Svelte, WebRTC
           </p>
           <p>
-            <strong>Backend:</strong> Node.js, Express, Nest.js, GraphQL,
+            <strong>Backend:</strong> Node js, Express js, Nest js, GraphQL,
             MongoDB, Neo4j
           </p>
           <p>
@@ -51,10 +51,10 @@ export default function Home() {
             <span className="date">July 2023 - Oct 2024</span>
             <br />
             <span className="desc">
-              Developed and maintained responsive websites using React, Vue, and
-              Angular. Integrated third-party APIs (OpenAI, Auth0) and backend
-              APIs. Expanded to backend work with Node.js, Nest.js, and MongoDB.
-              Maintained high code quality following best practices.
+              Developed and maintained responsive websites using React js, Vue
+              js, and Angular. Integrated third-party APIs (OpenAI, Auth0) and
+              backend APIs. Expanded to backend work with Node js, Nest js, and
+              MongoDB. Maintained high code quality following best practices.
             </span>
           </li>
           <li>
@@ -71,7 +71,7 @@ export default function Home() {
             <span className="date">Apr 2022 - Sep 2022</span>
             <br />
             <span className="desc">
-              Worked on several fullstack projects using React and Node.js,
+              Worked on several fullstack projects using React and Node js,
               handling frontend, backend, and database design.
             </span>
           </li>
@@ -83,7 +83,7 @@ export default function Home() {
         <ul>
           <li>
             <a
-              href="https://fyndo.netlify.app/"
+              href="https://fyndo.ripon.dev"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -91,12 +91,12 @@ export default function Home() {
             </a>{" "}
             — Social Media{" "}
             <span className="tech">
-              React, Node, GraphQL, Neo4j, Socket.io, Cloudinary
+              React js, Node js, GraphQL, Neo4j, Socket.io, Cloudinary
             </span>
           </li>
           <li>
             <a
-              href="https://no-code-web-automation.netlify.app/"
+              href="https://autob.ripon.dev"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -104,39 +104,40 @@ export default function Home() {
             </a>{" "}
             — No Code Web Automation{" "}
             <span className="tech">
-              React, Mantine UI, Node.js, Express, Puppeteer
+              React js, Mantine UI, Node js, Express js, Puppeteer
             </span>
           </li>
           <li>
             <a
-              href="https://dnd-page-builder.netlify.app/"
+              href="https://pageforge.ripon.dev"
               target="_blank"
               rel="noopener noreferrer"
             >
-              <strong>Drag & Drop Editor</strong>
+              <strong>Page Forge</strong>
             </a>{" "}
-            <span className="tech">JavaScript</span>
+            — Drag & Drop Page Builder <span className="tech">JavaScript</span>
           </li>
           <li>
             <a
-              href="https://memory-guessing-game.netlify.app/"
+              href="https://guess.ripon.dev"
               target="_blank"
               rel="noopener noreferrer"
             >
-              <strong>Memory Game</strong>
+              <strong>Guess</strong>
             </a>{" "}
-            <span className="tech">Vue</span>
+            — Guessing Game <span className="tech">Vue js</span>
           </li>
           <li>
             <a
-              href="https://live-exams.netlify.app/"
+              href="https://examroom.ripon.dev"
               target="_blank"
               rel="noopener noreferrer"
             >
-              <strong>RFA Tutors</strong>
+              <strong>Exam Room</strong>
             </a>{" "}
+            — Live Exams & Assessments
             <span className="tech">
-              React, Material UI, Node.js, Express, WebRTC
+              React js, Material UI, Node js, Express, WebRTC
             </span>
           </li>
         </ul>
