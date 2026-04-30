@@ -80,11 +80,6 @@ export default function RootLayout({
               url: "https://ripon.dev",
               email: "mdriponislam.dev@gmail.com",
               jobTitle: "Fullstack Developer",
-              worksFor: {
-                "@type": "Organization",
-                name: "Arnifi Corporate Service Providers L.L.C",
-                sameAs: ["https://arnifi.com"],
-              },
               address: {
                 "@type": "PostalAddress",
                 addressLocality: "Nilphamari",
